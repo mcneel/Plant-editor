@@ -1,0 +1,17 @@
+# Site navigation links
+
+
+- title: Documentation
+  url: /articles/
+
+- title: Updates
+  url: /blog/
+
+- title: Libraries
+  url: /libraries/
+
+- title: About
+  url: /about/
+
+- title: Search
+  url: /search/
