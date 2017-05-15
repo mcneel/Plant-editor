@@ -1,12 +1,11 @@
 # Site wide configuration
 
-title: AccuRender Tree Editor
+title: Site Title
 locale: en_US
-description: A fractal tree editor for Rhino3d
+description: Describe your website here.
 logo: site-logo.png
 search: true
-baseurl: ""
-# url: http://localhost:4000
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -37,9 +36,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Roy Hirshkowitz
+  name: Your Name
   avatar: bio-photo.jpg
-  email: roy@mcneel.com
+  email: you@email.com
   disqus-shortname:
   twitter: #username
   facebook: #username
