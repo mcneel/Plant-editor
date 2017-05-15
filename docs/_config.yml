@@ -5,7 +5,7 @@ locale: en_US
 description: A fractal tree editor for Rhino3d
 logo: site-logo.png
 search: true
-url: http://mcneel.github.io/Plant-editor/
+baseurl: ""
 # url: http://localhost:4000
 
 # Jekyll configuration
