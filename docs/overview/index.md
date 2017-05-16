@@ -11,6 +11,8 @@ image:
 
 The AccuRender plant editor is a fractal plant generator that can produce Rhino 3DM file, FBX and OBJ files. 
 
+![bamboo]({{site.url}}/images/bamboo.jpg)
+
 ## Features:
 
 * A single fractal algorithm that produces a wide array of plant types.
@@ -18,8 +20,6 @@ The AccuRender plant editor is a fractal plant generator that can produce Rhino 
 * Multiple branching levels.
 * Realtime preview in the editor.
 * 3d shaped, bitmap mapped leaves.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
 
 
 [^1]: Example: *domain.com/category-name/post-title*
