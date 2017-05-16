@@ -1,26 +1,25 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: AccuRender Plant Editor
+excerpt: "A standalone plant editor for Windows"
+modified: 2017-05-16
 image:
   feature: trees-grass-lawn-park.jpg
   credit: 
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+The AccuRender plant editor is a fractal plant generator that can produce Rhino 3DM file, FBX and OBJ files. 
 
-## So Simple Theme is all about:
+## Features:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
+* A single fractal algorithm that produces a wide array of plant types.
+* The ability to export plant models and materials for many products.
+* Multiple branching levels.
+* Realtime preview in the editor.
+* 3d shaped, bitmap mapped leaves.
 * [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
 * Support for Disqus Comments
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
 [^1]: Example: *domain.com/category-name/post-title*

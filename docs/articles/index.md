@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Documentation
+excerpt: "Product documentation and knowledge base for the AccuRender Plant Editor."
 search_omit: true
 ---
 

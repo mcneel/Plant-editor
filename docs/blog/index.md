@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+title: Latest News
+excerpt: "Current news and updates for the AccuRender Plant Editor"
 search_omit: true
 ---
 
