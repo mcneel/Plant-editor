@@ -49,6 +49,7 @@ defaults:
       type: help
     values:
       layout: page
+      lang: en
 
 # Site owner
 owner:
