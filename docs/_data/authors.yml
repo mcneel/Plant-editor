@@ -1,11 +1,11 @@
 # Authors
 
 scott_davidson:
-  name: Billy Rick
-  web: 
+  name: Scott Davidson
+  web: www.rhino3d.com
   email: scottd@mcneel.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar:
+  bio:
+  avatar: scott_profile.png
   twitter: 
   google:
     plus: 
@@ -14,7 +14,7 @@ roy_hirshkowitz:
   name: Roy Hirshkowitz
   email: roy@mcneel.com
   bio:
-  avatar:
+  avatar: roy_profile.png
   twitter:
   google:
     plus:
