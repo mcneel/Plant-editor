@@ -46,6 +46,10 @@ Select a template plant. Then give the plant a new common name and an optional b
 
 ![{{site.url}}/images/new-plant-name.png]({{site.url}}/images/new-plant-name.png){: width="60%"}
 
+A library of existing plants is available from the File pulldown > Open From Cloud...
+
+![{{site.url}}/images/cloud_library.png]({{site.url}}/images/cloud_library.png){: width="80%"}
+
 ## Editing the branches
 
 A plant is made up of a trunk, a series of branches, then finish with leaves.  There may be many nested branches in a tree.While it can become complex to control plants, the best way to edit a try is to try a few options to see how they affect the shape of a tree. For instance click on a branch level and click on the Size > Elongation control.  Then use the mouse wheel to adjust the value.  The preview will show the results.
